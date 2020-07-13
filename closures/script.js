@@ -1,5 +1,5 @@
 /**
- * # Description: Closures is ability of functio to use variables which
+ * # Description: Closures is ability of function to use variables which
  *   are defined in there lexical scope;
  *   Our most common use of them as a concept is when we use returned function 
  *   to access the variables in parent function
